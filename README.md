@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Chat](Application)
 
-- 🌱 I’m currently learning *Java Programming, SpringBoot, FullStackDevelopment *
+- 🌱 I’m currently learning **Java Programming, SpringBoot, FullStackDevelopment** 
 
 - 💬 Ask me about Mobile Development and FullStackDevelopment
 
